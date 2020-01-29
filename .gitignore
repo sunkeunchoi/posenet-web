@@ -176,7 +176,8 @@ __generated__
 # General
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 
@@ -512,3 +513,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/visualstudiocode,osx,linux,windows,test,react,reactnative,node,dotenv
+public/
+dist/
